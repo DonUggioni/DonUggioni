@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Renan Tiscoski
 - 👀 I’m interested in Gaming, geek stuff, music and philosophy.
-- 🌱 I’m currently learning React Js.
+- 🌱 I’m currently learning React Js && React Native.
 - 💞️ I’m looking to collaborate on any projects that might be interesting.
 - 📫 Please visit my portfolio page and send me a message if you need to contact me =)
 
