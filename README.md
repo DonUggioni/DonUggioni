@@ -5,7 +5,7 @@
 - 📫 Please visit my portfolio page and send me a message if you need to contact me =)
 
 My portfolio - 
-https://renans-portfolio.netlify.app/
+https://renantiscoski.pt/
 
 <!---
 DonUggioni/DonUggioni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
